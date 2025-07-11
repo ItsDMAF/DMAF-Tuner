@@ -1,4 +1,4 @@
-console.log("🎸 DMAF Tuner starting...");
+console.log("DMAF Tuner starting...");
 
 const noteDisplay = document.getElementById("note-display");
 
